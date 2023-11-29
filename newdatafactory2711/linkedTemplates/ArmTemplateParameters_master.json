@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "newdatafactory2711"
+		},
+		"deworkspace2711_service_connectionString": {
+			"value": ""
+		},
+		"newdatastorage2711_service_accountKey": {
+			"value": ""
+		},
+		"newdatastorage2711_service_properties_typeProperties_url": {
+			"value": "https://newdatastorage2711.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
