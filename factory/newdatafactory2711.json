@@ -1,0 +1,9 @@
+{
+	"name": "newdatafactory2711",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e3c8d5c5-1d6e-4a49-add4-914474a5adc5",
+		"tenantId": "bcd4f4fb-e41e-4e3d-b33a-01c91a5e40c0"
+	}
+}
